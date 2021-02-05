@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 namespace coffee_machine
 {
     class Remain
@@ -46,4 +46,4 @@ namespace coffee_machine
 
 
     }
-}
+}*/
